@@ -1,0 +1,25 @@
+{
+  "name": "codeschool-mongodb",
+  "version": "1.0.0",
+  "description": "CodeSchool MongoDB Work",
+  "main": "mongo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCarlos831/codeschool-mongodb.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mean",
+    "stack",
+    "codeschool"
+  ],
+  "author": "Juan Montoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JCarlos831/codeschool-mongodb/issues"
+  },
+  "homepage": "https://github.com/JCarlos831/codeschool-mongodb#readme"
+}
